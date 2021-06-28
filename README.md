@@ -45,3 +45,6 @@ Open Your browser put inside browser “http://localhost/library/admin”
 Login Details for admin :
 Username : admin
 Password : admin@123
+
+Home Page: 
+![alt text](![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true))
