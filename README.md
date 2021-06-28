@@ -53,7 +53,12 @@ Online library Management System divided in two modules–
 
 Student
 Admin
+
+
+
 Admin Features
+
+
 
 Admin Dashboard
 
@@ -71,14 +76,28 @@ Admin can also view student details
 
 Admin can change own password
 
+
+Admin Dashboard:
+![alt text](https://github.com/kumarpandule2000/Online-Library-Management-System-PHP/blob/master/Images/3%20Updated.png?raw=true)
+
+
 Students-
 
+
+
 Student can register yourself and after registration they will get studentid
+
 After login student can view own dashboard.
+
 Student can update own profile.
+
 Student can view issued book and book return date-time.
+
 Student can also change own password.
+
 Student can also recover own password.
+
 
 Student Dashboard:
 ![alt text](https://github.com/kumarpandule2000/Online-Library-Management-System-PHP/blob/master/Images/2.png?raw=true)
+
