@@ -47,4 +47,4 @@ Username : admin
 Password : admin@123
 
 Home Page: 
-![alt text](![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true))
+![alt text](https://github.com/kumarpandule2000/Online-Library-Management-System-PHP/blob/master/Images/1%20Updated.png?raw=true)
