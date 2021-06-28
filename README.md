@@ -44,4 +44,4 @@ Open Your browser put inside browser “http://localhost/library/admin”
 
 Login Details for admin :
 Username : admin
-Password : Kumar@123
+Password : admin@123
