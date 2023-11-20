@@ -104,7 +104,7 @@ echo "<script>alert('Invalid Details');</script>";
 </div>
 </div>
 </div>  
-<!---LOGIN PABNEL END-->            
+<!---LOGIN PANEL END-->            
              
  
     </div>
